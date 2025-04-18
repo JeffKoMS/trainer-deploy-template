@@ -37,9 +37,9 @@ const config = {
   // For Production:
   
   url: "https://microsoftlearning.github.io",
-  baseUrl: "/trainer-demo-template/",
+  baseUrl: "/trainer-deploy-template/",
   organizationName: "microsoftlearning",
-  projectName: "trainer-demo-template",
+  projectName: "trainer-deploy-template",
   //favicon: "img/favicon.ico",
   deploymentBranch: "gh-pages",
 
